@@ -1,0 +1,15 @@
+.headerDesign{
+    color: #D20B2D !important;
+    font-weight: bold;
+    font-size: 2vw;
+    margin-top: 1vw;
+    /* margin-left: 1vw; */
+}
+.navDesign{
+    background-color: rgba(240, 231, 231, 0.4);
+}
+.barStyling{
+    color: #D20B2D !important;
+    margin-right: 5vw;
+    font-size: 2vw;
+}

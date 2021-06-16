@@ -1,0 +1,87 @@
+.styleHeading{
+    font-family: Trump Gothic East,sans-serif;
+    font-size: 5vw !important;
+    font-weight: 600 !important;
+    line-height: 0.9;
+    color: white;
+    text-align: left;
+    margin-top:7vw;
+    
+    
+}
+.borderClass{
+    border-bottom: 5px solid #D20B2D;
+    width: 6vw;
+    /* position: absolute; */
+    /* right: 2px; */
+    margin-top: 3vw;
+}
+.mainSubHeading{
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 1.2vw;
+    line-height: 1.6vw;
+}
+
+.developer{
+    color: #D20B2D ;
+}
+.heroArea{
+    background-image:url('../img/hero-img.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+}
+.section-Design{
+    background-color: #051923;
+}
+.cardTextingStyle{
+    text-align: left;
+    color: #0582ca;
+    font-weight: bold;
+    margin-top: 4vw;
+    margin-bottom: 3vw;
+    
+}
+.cardMargin{
+    margin-top: 10vw !important;
+}
+
+
+
+.thirdSectionDecoration{
+    background-color: #051923;
+    text-align: left;
+    color: #BFD1DF;
+}
+.dec_2{
+    font-size: 22px;
+    line-height: 35px;
+    margin: 0 0 1.5rem;
+}
+.dec_1{
+    line-height: 1.8;
+}
+.dec_3{
+    font-size: 22px;
+    line-height: 35px;
+    margin: 0 0 1.5rem;
+    text-align: left;
+    color: #BFD1DF;
+}
+.detail_cont{
+    text-align: left;
+    line-height: 0.8;
+    color: #BFD1DF;
+}
+.not_lve_yet{
+    color: red;
+}
+.copyright{
+    color: #BFD1DF;
+}
+.dec_2Decor{
+    color:#BFD1DF ;
+    text-align: left;
+}

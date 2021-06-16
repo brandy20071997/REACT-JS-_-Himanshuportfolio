@@ -1,0 +1,21 @@
+.Form_styling{
+    background-color: #024A80;
+    padding: 5vw;
+}
+.input_design{
+    background-color: #024A80;
+    border: none;
+    border-bottom: 2px solid #BFD1DF;
+    color: #BFD1DF;
+    font-weight: 600;
+}
+/* ::placeholder {
+    color:#BFD1DF;
+    opacity: 1;
+  } */
+  /* input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color: #636363;
+  } */
+  ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:  #BFD1DF !important;
+}

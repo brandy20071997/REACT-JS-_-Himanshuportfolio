@@ -1,0 +1,82 @@
+.sidenav a {
+    /* height: 100%; */
+    padding: 10px 0px 8px 25%;
+    text-decoration: none;
+    font-size: 29px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    text-align: left !important;
+    font-family: Poppins,sans-serif;
+    font-weight: 800;
+  
+    
+  }
+  .forSticky_Section{
+    /* position: -webkit-sticky; */
+    position:sticky;
+    top:0px;
+    /* bottom: 10vw; */
+  }
+
+  /* #mySidenav{
+      height: 100vw;
+      position: fixed;
+  } */
+  .sideNavHieght{
+    /* height: 46vw; */
+    background-color: #051923;
+    /* text-align: left; */
+    /* position: sticky; */
+    /* top:0px; */
+    width: 25vw;
+
+   
+  }
+  .my-info-title{
+    font-size: 12px;
+    line-height: 100%;
+    color: #0582ca;
+    letter-spacing: 5px;
+}
+
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  }
+  .myInfoContent{
+    color: white;
+  }
+  .detailAlign{
+    margin-top: 7vw;
+    text-align: left !important;
+    padding-left: 25%;
+  }
+
+  #mySidenav{
+    position: absolute;
+  }
+
+
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }

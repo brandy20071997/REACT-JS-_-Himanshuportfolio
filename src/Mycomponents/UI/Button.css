@@ -1,0 +1,44 @@
+.btnstyling_2{
+    color: white;
+    border-radius: 2rem !important;
+    border: 2px solid #0582CA;
+    padding: 0.8rem;
+    margin-top: 3vw;
+    }
+.btnstyling_1{
+    color: white;
+    border-radius: 2rem !important;
+    border: 2px solid #0582CA;
+    padding: 0.8rem;
+    margin-top: 3vw;
+    width: 14vw;
+    height: 4vw;
+    /* position: relative; */
+    float:left;
+}
+.btnstyling_3{
+    border:2px solid #BFD1DF; 
+    margin-top: 2vw;
+    width: 100%;
+    color: #BFD1DF;
+    font-weight: bold;
+    height: 4rem;
+}
+.btnStylingContact{
+    background-color: #D20B2D;
+    color: white;
+    font-size: 1.5vw;
+    border: none;
+    padding-left: 2vw;
+    padding-right: 2vw;
+
+
+}
+.btnstyling_2:hover{
+    background-color: #0582CA;
+    color: white;
+}
+.btnstyling_1:hover{
+    background-color: #0582CA;
+    color: white;
+}
